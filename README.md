@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Email Automation Dashboard
 
 React + Vite dashboard for the Cloudflare email automation Worker.
@@ -40,3 +41,7 @@ To point at a local Worker, change `.env.development`:
 ```text
 VITE_API_BASE=http://127.0.0.1:8787
 ```
+=======
+# cloudsender
+sends clouds
+>>>>>>> dabac4df598711e1fb88be51bc3ad854c8142420
